@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ijvadeli
 - 👀 I’m interested in gaming, programming and coffee
-- 🌱 I’m currently learning HTMl, CSS, JS
+- 🌱 I’m currently learning HTML, CSS, JS
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me idhvandelindt@icloud.com
 - 😄 Pronouns: he/him
