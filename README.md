@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me idhvandelindt@icloud.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i like coffee
+- ⚡ Fun fact: One Piece Fan
 
 <!---
 ijvadeli/ijvadeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
